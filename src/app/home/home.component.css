@@ -1,0 +1,17 @@
+table {
+    width: 80%;
+} 
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+}
+
+.custom-button {
+    margin: 10px 10px;
+}
+
+
+
